@@ -1,0 +1,6 @@
+[submodule "core/hermes_body"]
+	path = core/hermes_body
+	url = https://github.com/Stella-CN/hermes_body.git
+[submodule "core/hermes_ros"]
+	path = core/hermes_ros
+	url = https://github.com/Stella-CN/hermes_ros.git
