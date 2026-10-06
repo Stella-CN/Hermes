@@ -1,0 +1,6 @@
+[submodule "references/wheel_leg_simulation"]
+	path = references/wheel_leg_simulation
+	url = https://github.com/Stella-CN/wheel_leg_simulation.git
+[submodule "references/wheel_leg_hardware"]
+	path = references/wheel_leg_hardware
+	url = https://github.com/Stella-CN/wheel_leg_hardware.git

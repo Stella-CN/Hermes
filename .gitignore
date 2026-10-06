@@ -67,3 +67,16 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.pytest_cache/
+*.mypy_cache/
+.venv/
+
+# macOS metadata
+.DS_Store
